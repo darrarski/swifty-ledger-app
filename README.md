@@ -6,6 +6,8 @@ Your privacy is respected - Swifty Ledger app does not collect or share your dat
 
 If you are experiencing issues with the app, or would like to suggest some features and improvements - use issues page in this repository.
 
+[Visit Swifty Ledger product page.](http://darrarski.gumroad.com/l/swifty-ledger)
+
 ## ☕️ Do you like the project?
 
 I would love to hear if you like my work. I can help you apply any of the solutions used in this project in your app too! Feel free to reach out to me, or if you just want to say "thanks", you can buy me a coffee.
